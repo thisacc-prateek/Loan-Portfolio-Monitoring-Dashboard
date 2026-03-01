@@ -7,8 +7,7 @@ This project transforms raw banking data into decision-ready insights using dyna
 ---
 ![](Dashboard/Summary.png)
 ---
-
-
+![](Dashboard/Details.png)
 ---
 
 ## 📌 Problem Statement
