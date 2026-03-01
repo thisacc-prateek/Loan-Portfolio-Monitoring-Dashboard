@@ -1,5 +1,8 @@
 # 🏦 Loan Portfolio Monitoring Dashboard | Power BI
 
+## 📸 Dashboard Preview
+![]()
+
 An interactive end-to-end Power BI dashboard designed to analyze loan applications, funding performance, repayment trends, and credit risk indicators.
 
 This project transforms raw banking data into decision-ready insights using dynamic KPIs, segmentation logic, and drill-down analysis.
