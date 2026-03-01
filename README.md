@@ -1,7 +1,7 @@
 # 🏦 Loan Portfolio Monitoring Dashboard | Power BI
 
 ## 📸 Dashboard Preview
-![]()
+![](Dashboard/Overview.png)
 
 An interactive end-to-end Power BI dashboard designed to analyze loan applications, funding performance, repayment trends, and credit risk indicators.
 
