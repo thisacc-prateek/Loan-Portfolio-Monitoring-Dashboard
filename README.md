@@ -4,6 +4,10 @@ This project transforms raw banking data into decision-ready insights using dyna
 
 ## 📸 Dashboard Preview
 ![](Dashboard/Overview.png)
+---
+![](Dashboard/Summary.png)
+---
+
 
 ---
 
