@@ -9,6 +9,8 @@ This project transforms raw banking data into decision-ready insights using dyna
 ---
 ![](Dashboard/Details.png)
 ---
+## 📸 Data Model
+![](data_model/BankLoan_datamodel.png)
 
 ## 📌 Problem Statement
 
